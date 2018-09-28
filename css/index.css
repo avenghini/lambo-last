@@ -1,0 +1,8 @@
+.header-nav {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+:root {
+    font-family: 'Source Sans Pro', sans-serif;
+}
