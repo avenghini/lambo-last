@@ -1,8 +1,44 @@
-.header-nav {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+.parallax {
+    background-image: url("parallax/prlx-1.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-:root {
-    font-family: 'Source Sans Pro', sans-serif;
+
+.parallax2 {
+    background-image: url("parallax/prlx-2.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3 {
+    background-image: url("parallax/vrn.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax4 {
+    background-image: url("parallax/best.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax5 {
+    background-image: url("parallax/prnd.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
