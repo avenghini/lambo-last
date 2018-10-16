@@ -6,6 +6,12 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+@media only screen and (max-device-width:1024px) {
+    .parallax2 {
+        background-attachment: scroll;
+        width: 100%;
+    }
+}
 .parallax4 {
     background-image: url("parallax/best.jpg");
     min-height: 400px;
@@ -13,6 +19,12 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+@media only screen and (max-device-width:1024px) {
+    .parallax4 {
+        background-attachment: scroll;
+        width: 100%;
+    }
 }
 .parallax5 {
     background-image: url("parallax/prnd.jpg");
@@ -22,6 +34,12 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+@media only screen and (max-device-width:1024px) {
+    .parallax5 {
+        background-attachment: scroll;
+        width: 100%;
+    }
+}
 .parallax6 {
     background-image: url("parallax/irs.jpg");
     min-height: 400px;
@@ -29,6 +47,12 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+@media only screen and (max-device-width:1024px) {
+    .parallax6 {
+        background-attachment: scroll;
+        width: 100%;
+    }
 }
 .parallax7 {
     background-image: url("parallax/ara.jpg");
@@ -38,4 +62,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+@media only screen and (max-device-width:1024px) {
+    .parallax7 {
+        background-attachment: scroll;
+        width: 100%;
+    }
+}
