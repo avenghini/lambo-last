@@ -9,7 +9,6 @@
 @media only screen and (max-device-width:1024px) {
     .parallax2 {
         background-attachment: scroll;
-        width: 100%;
     }
 }
 .parallax4 {
@@ -23,7 +22,6 @@
 @media only screen and (max-device-width:1024px) {
     .parallax4 {
         background-attachment: scroll;
-        width: 100%;
     }
 }
 .parallax5 {
@@ -37,7 +35,6 @@
 @media only screen and (max-device-width:1024px) {
     .parallax5 {
         background-attachment: scroll;
-        width: 100%;
     }
 }
 .parallax6 {
@@ -51,7 +48,6 @@
 @media only screen and (max-device-width:1024px) {
     .parallax6 {
         background-attachment: scroll;
-        width: 100%;
     }
 }
 .parallax7 {
@@ -65,6 +61,5 @@
 @media only screen and (max-device-width:1024px) {
     .parallax7 {
         background-attachment: scroll;
-        width: 100%;
     }
 }
